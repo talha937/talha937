@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:09090f&height=200&section=header&text=Talha&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Python%20%26%20FastAPI%20Specialist&descAlignY=65&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:09090f&height=200&section=header&text=Talha&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Python%20%26%20FastAPI%20Specialist&descAlignY=65&descSize=18" width="100%"/>
 
 <a href="https://github.com/talha937">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+Ecosystem;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+Redis;Building+in+public+%23100DaysOfCode;Open+to+Backend+%2F+Full-Stack+Roles" />
@@ -105,12 +105,12 @@ Nonprofit website built with Django, focused on clean information architecture a
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=09090f&title_color=7c3aed&icon_color=7c3aed" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=09090f&stroke=7c3aed&ring=7c3aed" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=talha937&show_icons=true&theme=radical&hide_border=true&bg_color=09090f&title_color=7c3aed&icon_color=7c3aed" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=talha937&theme=radical&hide_border=true&background=09090f&stroke=7c3aed&ring=7c3aed" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=09090f&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true" width="98%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=talha937&theme=react-dark&bg_color=09090f&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true" width="98%" />
 
 </div>
 
@@ -125,11 +125,11 @@ Nonprofit website built with Django, focused on clean information architecture a
 
 **Currently open for backend roles, internships, and collaboration.**
 
-<a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-HIRE%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abu370160@gmail.com"><img src="https://img.shields.io/badge/-HIRE%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/md-abu-talha-lafi-921632315"><img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,100:7c3aed&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,100:7c3aed&height=100&section=footer" width="100%"/>
 
 </div>
