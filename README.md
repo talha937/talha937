@@ -93,9 +93,10 @@ Nonprofit website built with Django, focused on clean information architecture a
 
 <br/>
 
-## GitHub Insights
+GitHub Insights
+
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=talha937&show_icons=true&theme=radical&hide_border=true&bg_color=09090f&title_color=7c3aed&icon_color=7c3aed" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=talha937&show_icons=true&theme=radical&hide_border=true&bg_color=09090f&title_color=7c3aed&icon_color=7c3aed&cache_seconds=86400" width="48%" />
 <img src="https://streak-stats.demolab.com/?user=talha937&theme=radical&hide_border=true&background=09090f&stroke=7c3aed&ring=7c3aed" width="48%" />
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=talha937&theme=react-dark&bg_color=09090f&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true" width="98%" />
@@ -103,12 +104,13 @@ Nonprofit website built with Django, focused on clean information architecture a
 <br/>
 <div align="center">
 
-> "Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software."
-> — L. Peter Deutsch
+"Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software."
+— L. Peter Deutsch
+
+
 
 <br/>
-
-**Currently open for backend roles, internships, and collaboration.**
+Currently open for backend roles, internships, and collaboration.
 
 <a href="mailto:abu370160@gmail.com"><img src="https://img.shields.io/badge/-HIRE%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/md-abu-talha-lafi-921632315"><img src="https://img.shields.io/badge/-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -116,5 +118,4 @@ Nonprofit website built with Django, focused on clean information architecture a
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090f,100:7c3aed&height=100&section=footer" width="100%"/>
-
 </div>
