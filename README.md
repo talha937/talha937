@@ -102,20 +102,13 @@ Nonprofit website built with Django, focused on clean information architecture a
 <br/>
 
 ## GitHub Insights
-
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=talha937&show_icons=true&theme=radical&hide_border=true&bg_color=09090f&title_color=7c3aed&icon_color=7c3aed" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=talha937&theme=radical&hide_border=true&background=09090f&stroke=7c3aed&ring=7c3aed" width="48%" />
-
+<img src="https://streak-stats.demolab.com/?user=talha937&theme=radical&hide_border=true&background=09090f&stroke=7c3aed&ring=7c3aed" width="48%" />
 <br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=talha937&theme=react-dark&bg_color=09090f&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true" width="98%" />
-
 </div>
-
 <br/>
-
 <div align="center">
 
 > "Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software."
