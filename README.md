@@ -1,27 +1,19 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:09090f&height=200&section=header&text=Talha&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Python%20%26%20FastAPI%20Specialist&descAlignY=65&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:09090f&height=200&section=header&text=Talha&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20|%20Python%2FFastAPI%20Specialist&descAlignY=65&descSize=18" width="100%"/>
 <a href="https://github.com/talha937">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Backend+Developer+%7C+Python+Ecosystem;FastAPI+%7C+Django+%7C+PostgreSQL+%7C+Redis;Building+in+public+%23100DaysOfCode;Open+to+Backend+%2F+Full-Stack+Roles" />
 </a>
-
 <br/>
-
 <a href="mailto:abu370160@gmail.com"><img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/md-abu-talha-lafi-921632315"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://instagram.com/tech_with_talha?igsh=MXdzc2xlYjg1aGQydA=="><img src="https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="https://www.facebook.com/share/1DLCRNjCqq/"> <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-
 <br/><br/>
-
 <img src="https://img.shields.io/badge/Backend%20Developer-7c3aed?style=flat-square" />
 <img src="https://img.shields.io/badge/CSE%20Student-f43f5e?style=flat-square" />
 <img src="https://img.shields.io/badge/Based%20in-Dhaka%2C%20Bangladesh-06b6d4?style=flat-square" />
 <img src="https://img.shields.io/badge/Open%20To-Work-22c55e?style=flat-square" />
-
 </div>
-
 <br/>
 
 ## About Me
